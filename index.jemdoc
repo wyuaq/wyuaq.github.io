@@ -45,7 +45,7 @@ My research explores the intersection of *signal processing* and *machine learni
 == Contact
 Feel free to drop me an email if you are interested in my research or would like to have a chat. Looking forward to hearing from you!
 
-#~~~
-#{}{raw}
-#<a href="https://clustrmaps.com/site/1c4ft"  title="ClustrMaps"><img src="//www.clustrmaps.com/map_v2.png?d=NWizu2yWycK5EqrBPOR0o0dQVhqWyBlfP_IrjRxF6ns&cl=ffffff" /></a>
-#~~~
+~~~
+{}{raw}
+<a href="https://clustrmaps.com/site/1c4ft"  title="ClustrMaps"><img src="//www.clustrmaps.com/map_v2.png?d=NWizu2yWycK5EqrBPOR0o0dQVhqWyBlfP_IrjRxF6ns&cl=ffffff" width="100" height="auto" /></a>
+~~~
