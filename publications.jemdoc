@@ -1,9 +1,9 @@
 # jemdoc: menu{MENU}{publications.html}, nofooter
 == Publications 
 
-=== Ongoing Works
-- Physical layer foundation models for ultra-massive MIMO systems \n
-/IEEE Transactions on Wireless Communications/, in preparation, 2025. \n
+#=== Ongoing Works
+#- Physical layer foundation models for ultra-massive MIMO systems \n
+#/IEEE Transactions on Wireless Communications/, in preparation, 2025. \n
 
 
 === Journal
@@ -15,14 +15,15 @@ Kai Zhang, *Wentao Yu**, Hengtao He, Shenghui Song, Jun Zhang, Khaled B. Letaief
 /IEEE Journal on Selected Areas in Communications/, accepted, Jan. 2026. \n
 - AI and deep learning for terahertz ultra-massive MIMO: From model-driven approaches to foundation models \[[https://doi.org/10.1016/j.eng.2025.07.032 paper]\]\[[https://arxiv.org/abs/2412.09839 arxiv]\]\n
 *Wentao Yu*, Hengtao He, Shenghui Song, Jun Zhang, Linglong Dai, Lizhong Zheng, Khaled B. Letaief \n
-/Engineering/, accepted, Jul. 2025. (IF=11.6, flagship journal of the Chinese Academy of Engineering)
+/Engineering/, vol. 56, pp. 14-33, Jan. 2026. (flagship journal of the Chinese Academy of Engineering)\n
+*(Highlight Paper of the Special Issue on 6G)*
 - Deep learning for near-field XL-MIMO transceiver design: Principles and techniques \[[https://ieeexplore.ieee.org/document/10819470 paper]\]\[[https://arxiv.org/abs/2309.09575 arxiv]\]\n
 *Wentao Yu*, Yifan Ma, Hengtao He, Shenghui Song, Jun Zhang, Khaled B. Letaief \n
 /IEEE Communications Magazine/, vol. 63, no. 1, pp. 52-58, Jan. 2025. \n
 - Bayes-optimal unsupervised learning for channel estimation in near-field holographic MIMO \[[https://ieeexplore.ieee.org/abstract/document/10556727 paper]\]\[[https://arxiv.org/abs/2312.10438 arxiv]\]\n
 *Wentao Yu*, Hengtao He, Xianghao Yu, Shenghui Song, Jun Zhang, Ross Murch, Khaled B. Letaief \n
 /IEEE Journal of Selected Topics in Signal Processing/, vol. 18, no. 4, pp. 714-729, May 2024.\n 
-*(Popular Article of IEEE JSTSP for 17 Consecutive Months)*
+*(Popular Article of IEEE JSTSP for 19 Consecutive Months)*
 - An adaptive and robust deep learning framework for THz ultra-massive MIMO channel estimation \[[https://ieeexplore.ieee.org/abstract/document/10143629 paper]\]\[[https://arxiv.org/abs/2211.15939 arxiv]\]\[[https://github.com/wyuaq/FPN-OAMP-THz-Channel-Estimation code]\]\[[https://signalprocessingsociety.org/blog/ai-thz-um-mimo-model-driven-deep-learning-foundation-models webinar]\]\[[https://mp.weixin.qq.com/s/pQiS64t9nqcJDjFBc9YJhA blog (in Chinese)]\] \n
 *Wentao Yu*, Yifei Shen, Hengtao He, Xianghao Yu, Shenghui Song, Jun Zhang, Khaled B. Letaief \n
 /IEEE Journal of Selected Topics in Signal Processing/, vol. 17, no. 4, pp. 761-776, Jul. 2023. \n
