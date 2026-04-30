@@ -1,13 +1,19 @@
 # jemdoc: menu{MENU}{publications.html}, nofooter
 == Publications 
 
-#=== Ongoing Works
-#- Physical layer foundation models for ultra-massive MIMO systems \n
-#/IEEE Transactions on Wireless Communications/, in preparation, 2025. \n
-
+#=== Under Peer Review
+#- Analog RF computing: A new paradigm for energy-efficient edge AI over wireless downlinks \n
+#*Wentao Yu*, Vincent W.S. Wong \n
+#/IEEE Transactions on Wireless Communications/, under review, 2026. \n
+#- Deep learning-based sensing with deterministic pilots and random data payloads \n
+#Yang Li, Hengtao He, *Wentao Yu*, Jing Zhang, Chao-Kai Wen, Shi Jin \n
+#/IEEE Wireless Communications Letters/, under review, 2026. \n
 
 === Journal
-- Multimodal mixture-of-experts for ISAC in low-altitude wireless networks \[[https://arxiv.org/abs/2512.01750 arxiv]\] \n
+- Sensing-assisted channel estimation for flexible-antenna systems: A unified framework \n
+Ruoxiao Cao, *Wentao Yu**, Zixin Wang, Shenghui Song, Jun Zhang, Yi Gong, Khaled B. Letaief \n
+/IEEE Transactions on Wireless Communications/, under review. \n
+- Multimodal mixture-of-experts for ISAC in low-altitude wireless networks \[[https://arxiv.org/abs/2512.01750 arxiv]\] \[[https://mp.weixin.qq.com/s/RixCaA7IhOuI3Iqd7ZmRuA media coverage (in Chinese)\]]\n
 Kai Zhang, *Wentao Yu**, Hengtao He, Shenghui Song, Jun Zhang, Khaled B. Letaief  \n
 /IEEE Journal of Selected Topics in Signal Processing/, under minor revision. \n
 - Sensing for free: Learn to localize more sources than antennas without pilots \[[https://ieeexplore.ieee.org/document/11346855 paper]\]\[[https://arxiv.org/abs/2506.23525 arxiv]\] \n
@@ -17,13 +23,13 @@ Kai Zhang, *Wentao Yu**, Hengtao He, Shenghui Song, Jun Zhang, Khaled B. Letaief
 *Wentao Yu*, Hengtao He, Shenghui Song, Jun Zhang, Linglong Dai, Lizhong Zheng, Khaled B. Letaief \n
 /Engineering/, vol. 56, pp. 14-33, Jan. 2026. (flagship journal of the Chinese Academy of Engineering)\n
 *(Highlight Paper of the Special Issue on 6G)*
-- Deep learning for near-field XL-MIMO transceiver design: Principles and techniques \[[https://ieeexplore.ieee.org/document/10819470 paper]\]\[[https://arxiv.org/abs/2309.09575 arxiv]\]\[[https://mp.weixin.qq.com/s/iQf5K3_Q9hYE0TOFZhif8A blog (in Chinese)]\]\n
+- Deep learning for near-field XL-MIMO transceiver design: Principles and techniques \[[https://ieeexplore.ieee.org/document/10819470 paper]\]\[[https://arxiv.org/abs/2309.09575 arxiv]\]\[[https://mp.weixin.qq.com/s/iQf5K3_Q9hYE0TOFZhif8A media coverage (in Chinese)]\]\n
 *Wentao Yu*, Yifan Ma, Hengtao He, Shenghui Song, Jun Zhang, Khaled B. Letaief \n
 /IEEE Communications Magazine/, vol. 63, no. 1, pp. 52-58, Jan. 2025. \n
 - Bayes-optimal unsupervised learning for channel estimation in near-field holographic MIMO \[[https://ieeexplore.ieee.org/abstract/document/10556727 paper]\]\[[https://arxiv.org/abs/2312.10438 arxiv]\]\n
 *Wentao Yu*, Hengtao He, Xianghao Yu, Shenghui Song, Jun Zhang, Ross Murch, Khaled B. Letaief \n
 /IEEE Journal of Selected Topics in Signal Processing/, vol. 18, no. 4, pp. 714-729, May 2024.\n 
-*(Popular Article of IEEE JSTSP for 19 Consecutive Months)*
+*(Popular Article of IEEE JSTSP for 23 Consecutive Months)*
 - An adaptive and robust deep learning framework for THz ultra-massive MIMO channel estimation \[[https://ieeexplore.ieee.org/abstract/document/10143629 paper]\]\[[https://arxiv.org/abs/2211.15939 arxiv]\]\[[https://github.com/wyuaq/FPN-OAMP-THz-Channel-Estimation code]\]\[[https://signalprocessingsociety.org/blog/ai-thz-um-mimo-model-driven-deep-learning-foundation-models webinar]\]\[[https://mp.weixin.qq.com/s/pQiS64t9nqcJDjFBc9YJhA blog (in Chinese)]\] \n
 *Wentao Yu*, Yifei Shen, Hengtao He, Xianghao Yu, Shenghui Song, Jun Zhang, Khaled B. Letaief \n
 /IEEE Journal of Selected Topics in Signal Processing/, vol. 17, no. 4, pp. 761-776, Jul. 2023. \n
