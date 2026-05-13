@@ -2,15 +2,15 @@
 == Publications 
 
 #=== Under Peer Review
-#- Analog RF computing: A new paradigm for energy-efficient edge AI over wireless downlinks \n
+#- Analog RF computing: A new paradigm for energy-efficient edge AI over wireless networks \n
 #*Wentao Yu*, Vincent W.S. Wong \n
-#/IEEE Transactions on Wireless Communications/, under review, 2026. \n
+#/IEEE Transactions on Wireless Communications/, under review. \n
+#- Deep learning-based sensing with deterministic pilots and random data payloads \n
+#Yang Li, Hengtao He, *Wentao Yu*, Jing Zhang, Chao-Kai Wen, Shi Jin \n
+#/IEEE Wireless Communications Letters/, under review. \n
 
 
 === Journal
-- Deep learning-based sensing with deterministic pilots and random data payloads \n
-Yang Li, Hengtao He, *Wentao Yu*, Jing Zhang, Chao-Kai Wen, Shi Jin \n
-/IEEE Wireless Communications Letters/, under review. \n
 - Sensing-assisted channel estimation for flexible-antenna systems: A unified framework \[[https://arxiv.org/pdf/2604.27626 arxiv]\]\n
 Ruoxiao Cao, *Wentao Yu**, Zixin Wang, Shenghui Song, Jun Zhang, Yi Gong, Khaled B. Letaief \n
 /IEEE Transactions on Wireless Communications/, under review. \n
