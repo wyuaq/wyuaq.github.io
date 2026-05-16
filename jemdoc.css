@@ -2,7 +2,7 @@
  * @Author: wentao.yu
  * @Date:   2024-01-10 20:54:09
  * @Last Modified by:   wentao.yu
- * @Last Modified time: 2025-09-26 12:20:54
+ * @Last Modified time: 2026-05-15 18:17:41
  */
 /* Default css file for jemdoc. */
 
@@ -374,7 +374,9 @@ table.imgtable, table.imgtable td {
 
 /* Make publication venues (italics /.../) blue */
 #layout-content ul li i,
-#layout-content ul li em {
+#layout-content ul li em,
+#layout-content ol li i,
+#layout-content ol li em {
   color: #224b8d !important;
   font-style: italic;
 }
