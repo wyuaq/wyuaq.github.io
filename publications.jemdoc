@@ -4,7 +4,6 @@
 #=== Under Peer Review
 
 
-
 === Journal
 (* denotes corresponding author)
 . Analog RF computing: A new paradigm for energy-efficient edge AI over MU-MIMO systems \[[https://arxiv.org/pdf/2605.14331 arxiv]\]\n
@@ -16,9 +15,9 @@ Yang Li, Hengtao He, *Wentao Yu*, Jing Zhang, Chao-Kai Wen, Shi Jin \n
 . Sensing-assisted channel estimation for flexible-antenna systems: A unified framework \[[https://arxiv.org/pdf/2604.27626 arxiv]\]\n
 Ruoxiao Cao, *Wentao Yu**, Zixin Wang, Shenghui Song, Jun Zhang, Yi Gong, Khaled B. Letaief \n
 /IEEE Transactions on Wireless Communications/, under review. \n
-. Multimodal mixture-of-experts for ISAC in low-altitude wireless networks \[[https://arxiv.org/abs/2512.01750 arxiv]\] \[[https://mp.weixin.qq.com/s/RixCaA7IhOuI3Iqd7ZmRuA media coverage (in Chinese)\]]\n
+. Multimodal mixture-of-experts for ISAC in low-altitude wireless networks \[[https://ieeexplore.ieee.org/document/11534549 paper]\]\[[https://arxiv.org/abs/2512.01750 arxiv]\] \[[https://mp.weixin.qq.com/s/RixCaA7IhOuI3Iqd7ZmRuA media coverage (in Chinese)\]]\n
 Kai Zhang, *Wentao Yu**, Hengtao He, Shenghui Song, Jun Zhang, Khaled B. Letaief  \n
-/IEEE Journal of Selected Topics in Signal Processing/, accepted, May 2026. \n
+/IEEE Journal of Selected Topics in Signal Processing/, accepted, May 2026, DOI: 10.1109/JSTSP.2026.3696558. \n
 . Sensing for free: Learn to localize more sources than antennas without pilots \[[https://ieeexplore.ieee.org/document/11346855 paper]\]\[[https://arxiv.org/abs/2506.23525 arxiv]\] \n
 *Wentao Yu*, Khaled B. Letaief, Lizhong Zheng  \n
 /IEEE Journal on Selected Areas in Communications/, vol. 44, pp. 3285-3301, Jan. 2026. \n
