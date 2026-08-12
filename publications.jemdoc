@@ -8,7 +8,7 @@
 (* denotes corresponding author)
 . Analog RF computing: A new paradigm for energy-efficient edge AI over MU-MIMO systems \[[https://arxiv.org/pdf/2605.14331 arxiv]\]\n
 *Wentao Yu*, Vincent W.S. Wong \n
-/IEEE Transactions on Wireless Communications/, under review. \n
+/IEEE Transactions on Wireless Communications/, in revision. \n
 . Deep learning-based sensing with deterministic pilots and random data payloads \n
 Yang Li, Hengtao He, *Wentao Yu*, Jing Zhang, Chao-Kai Wen, Shi Jin \n
 /IEEE Wireless Communications Letters/, in revision. \n
@@ -41,9 +41,12 @@ Kai Zhang, *Wentao Yu**, Hengtao He, Shenghui Song, Jun Zhang, Khaled B. Letaief
 /IEEE Transactions on Vehicular Technology/, vol. 70, no. 7, pp. 7255-7260, Jul. 2021.
 
 === Conference
+. Analog RF computing for integrated data and AI flows over wireless networks \n
+*Wentao Yu*, Vincent W.S. Wong \n
+submitted to /Proc. IEEE Global Communications Conference (Globecom) Workshops/, Macau S.A.R., China, Dec. 2026. 
 . Low-complexity gridless single-snapshot DoA estimation via truncated Hankel Newton-MUSIC *(invited paper)* \[[https://arxiv.org/abs/2607.08108 arxiv]\] \n
 Ruoxiao Cao, *Wentao Yu*, Yi Gong, Khaled B. Letaief \n
-in /Proc. IEEE Conference on Integrated Sensing and Communications (ISAC)/, Lisbon, Portugal, Nov. 2026. 
+submitted to /Proc. IEEE Conference on Integrated Sensing and Communications (ISAC)/, Lisbon, Portugal, Nov. 2026. 
 . Multimodal deep learning-empowered beam prediction in future THz ISAC systems *(invited paper)* \[[https://ieeexplore.ieee.org/abstract/document/11275056 paper]\]\[[https://arxiv.org/abs/2505.02381 arxiv]\] \n
 Kai Zhang, *Wentao Yu*, Hengtao He, Shenghui Song, Jun Zhang, Khaled B. Letaief \n
 in /Proc. IEEE International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC)/, Istanbul, Turkey, Sept. 2025. 
