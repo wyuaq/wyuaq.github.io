@@ -14,7 +14,7 @@ Ruoxiao Cao, *Wentao Yu**, Zixin Wang, Shenghui Song, Jun Zhang, Yi Gong, Khaled
 /IEEE Transactions on Wireless Communications/, under review. \n
 . Deep learning-based sensing with deterministic pilots and random data payloads \n
 Yang Li, Hengtao He, *Wentao Yu*, Jing Zhang, Chao-Kai Wen, Shi Jin \n
-/IEEE Wireless Communications Letters/, accepted, Aug. 2026. \n
+/IEEE Wireless Communications Letters/, accepted, Aug. 2026, DOI: 10.1109/LWC.2026.3725823. \n
 . Multimodal mixture-of-experts for ISAC in low-altitude wireless networks \[[https://ieeexplore.ieee.org/document/11534549 paper]\]\[[https://arxiv.org/abs/2512.01750 arxiv]\]\[[https://mp.weixin.qq.com/s/RixCaA7IhOuI3Iqd7ZmRuA media coverage (in Chinese)\]]\n
 Kai Zhang, *Wentao Yu**, Hengtao He, Shenghui Song, Jun Zhang, Khaled B. Letaief  \n
 /IEEE Journal of Selected Topics in Signal Processing/, accepted, May 2026, DOI: 10.1109/JSTSP.2026.3696558. \n
@@ -43,6 +43,9 @@ Kai Zhang, *Wentao Yu**, Hengtao He, Shenghui Song, Jun Zhang, Khaled B. Letaief
 === Conference
 . Analog RF computing for integrated data and AI flows over wireless networks \n
 *Wentao Yu*, Vincent W.S. Wong \n
+submitted to /Proc. IEEE Global Communications Conference (Globecom) Workshops/, Macau S.A.R., China, Dec. 2026. 
+. Parallel-measurement interpolant flow matching for massive MIMO channel estimation \n
+Junhao Zhou, Hengtao He, Fangyu Liu, Weijie Jin, *Wentao Yu*, Shi Jin \n
 submitted to /Proc. IEEE Global Communications Conference (Globecom) Workshops/, Macau S.A.R., China, Dec. 2026. 
 . Low-complexity gridless single-snapshot DoA estimation via truncated Hankel Newton-MUSIC *(invited paper)* \[[https://arxiv.org/abs/2607.08108 arxiv]\] \n
 Ruoxiao Cao, *Wentao Yu*, Yi Gong, Khaled B. Letaief \n
