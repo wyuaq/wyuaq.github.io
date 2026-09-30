@@ -5,11 +5,12 @@
 - Entropy, [https://www.mdpi.com/journal/entropy/special_issues/6PWIJ3644Q Special Issue] on "MIMO Wireless Communications: Information Theory Perspectives" (co-editing with [https://lizhongzheng.github.io Prof. Lizhong Zheng])
 
 == Conference Organizer
-- 2027 IEEE ICC, TPC Co-chair, Workshop on Analog Computing for Wireless Communications
-- 2026 IEEE ISAC, Co-chair, Special Session on Advanced Signal Processing for Reconfigurable Antenna-Enabled ISAC Systems
+- Co-chair, 2027 IEEE ICC, Workshop on Analog Computing for Wireless Communications
+- Co-chair, 2026 IEEE ISAC, Special Session on Advanced Signal Processing for Reconfigurable Antenna-Enabled ISAC Systems
 
 == Conference TPC Member
 - 2027 IEEE ICC, Machine Learning for Communications and Networking Track
+- 2027 IEEE ICASSP, Machine Learning for Signal Processing Technical Committee
 - 2026 WCSP, Symposium 6: Edge Intelligence, Computing, and Caching
 - 2026 ACM International Conference on Nanoscale Computing and Communication (NanoCom)
 - 2026 IEEE Globecom, Machine Learning for Communications and Networking Track
@@ -41,9 +42,9 @@
 - Journal of Information and Intelligence
 - Artificial Intelligence Review
 
-== Conference Reviewer
-- IEEE Global Communications Conference (Globecom)
-- IEEE International Conference on Communications (ICC)
-- IEEE Wireless Communications and Networking Conference (WCNC)
-- IEEE Vehicular Technology Conference (VTC)
-- International Symposium on Wireless Communication Systems (ISWCS) 
+#== Conference Reviewer
+#- IEEE Global Communications Conference (Globecom)
+#- IEEE International Conference on Communications (ICC)
+#- IEEE Wireless Communications and Networking Conference (WCNC)
+#- IEEE Vehicular Technology Conference (VTC)
+#- International Symposium on Wireless Communication Systems (ISWCS) 
