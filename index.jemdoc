@@ -21,10 +21,20 @@ Email: wentaoyu@ece.ubc.ca \n
 #at Baton Rouge, Louisiana, USA. (March 19, 2021)
 #at Grand Isle State Park, Louisiana, USA. (Oct 6, 2018)
 
+
+== About me
+I am currently an NSERC Postdoctoral Research Fellow with the Department of Electrical and Computer Engineering at the University of British Columbia (UBC), hosted by [https://people.ece.ubc.ca/~vincentw/Homepage/Home.html Prof. Vincent Wong]. I received my Ph.D. in Electronic and Computer Engineering from the Hong Kong University of Science and Technology (HKUST) in 2025, under the supervision of [https://ece.hkust.edu.hk/eekhaled Prof. Khaled B. Letaief]. From September 2024 to July 2025, I was a Visiting Researcher at the Research Laboratory of Electronics, Massachusetts Institute of Technology (MIT), where I worked with [https://lizhongzheng.github.io Prof. Lizhong Zheng]. Prior to that, I received my B.Eng. degree in Electronic Science and Engineering from Nanjing University in 2021.  \n
+
+My research interests include *signal processing and machine learning for wireless systems*, with a focus on next-generation MIMO technologies, integrated sensing and communication, analog RF computing, and edge AI. I was a recipient of the China National Scholarship in 2018, the Hong Kong Ph.D. Fellowship Scheme (HKPFS) in 2021, and the NSERC Canada Postdoctoral Research Award (CPRA) in 2026.
+
+
 == News
+- \[2026-09-27\] Two papers are accepted by IEEE Globecom Workshops, one on [https://arxiv.org/pdf/2605.14331 analog RF computing] and the other on generative channel estimation. See you in Macau in December! 
+- \[2026-09-12\] One [https://arxiv.org/abs/2607.08108 paper] on low-complexity single-snapshot DOA estimation is accepted by the inaugural IEEE ISAC conference. See you in Lisbon in November! 
+- \[2026-08-14\] One [https://ieeexplore.ieee.org/document/11661776 paper] on deep learning-based sensing using both deterministic pilots and random data payloads is accepted by IEEE Wireless Communications Letters. This is an extension of my previous [https://ieeexplore.ieee.org/document/11346855 JSAC paper]. 
 - \[2026-06-09\] Our [https://ieeexplore.ieee.org/abstract/document/10556727 JSTSP paper] on learning-aided holographic MIMO communications is selected as *IEEE Signal Processing Society's annual top 25 downloaded article* from 2024 to 2025! 
 - \[2026-05-18\] One [https://ieeexplore.ieee.org/document/11534549 paper] on multimodal ISAC in low-altitude wireless networks is accepted by IEEE Journal of Selected Topics in Signal Processing (JSTSP)!
-- \[2026-02-15\] I am honored to receive the highly selective [https://nserc-crsng.canada.ca/en/funding-opportunity/canada-postdoctoral-research-award-program NSERC Canada Postdoctoral Research Award (CPRA)]. My proposal ranked *top 4\%* in the Electrical Engineering review committee. 
+- \[2026-02-15\] I am honored to receive the prestigious [https://nserc-crsng.canada.ca/en/funding-opportunity/canada-postdoctoral-research-award-program NSERC Canada Postdoctoral Research Award (CPRA)]. My proposal ranked *top 4\%* in the Electrical Engineering review committee. 
 - \[2026-02-12\] *Call for Papers*: Entropy, [https://www.mdpi.com/journal/entropy/special_issues/6PWIJ3644Q Special Issue] on "MIMO Wireless Communications: Information Theoretic Perspectives", co-editing with [https://lizhongzheng.github.io Prof. Lizhong Zheng]. Deadline: Nov. 30, 2026. 
 - \[2026-01-05\] One [https://ieeexplore.ieee.org/document/11346855 paper] on learning-based ISAC using random communication signals has been accepted by IEEE Journal on Selected Areas in Communications (JSAC)! 
 - \[2025-08-25\] I successfully defended my Ph.D. thesis at HKUST! A huge thank you to my supervisor [https://ece.hkust.edu.hk/eekhaled Prof. Khaled B. Letaief] and my committee members (Profs. [https://eejzhang.people.ust.hk Jun Zhang], [https://eermurch.home.ece.ust.hk Ross Murch], [https://cse.hkust.edu.hk/~songguo/ Song Guo], [https://www.cs.cityu.edu.hk/~yugufang/ Yuguang Fang]) for their guidance and support! 
@@ -36,11 +46,6 @@ Email: wentaoyu@ece.ubc.ca \n
 # - \[09-13-2024\] I begin my new role as a visiting Ph.D. student at MIT, working with [https://lizhongzheng.github.io Prof. Lizhong Zheng].
 # - \[08-12-2024\] "Deep learning for near-field XL-MIMO transceiver design: principles and techniques" is accepted by IEEE Communications Magazine! 
 # - \[06-05-2024\] "Bayes-optimal unsupervised learning for channel estimation in near-field holographic MIMO" is accepted by IEEE Journal of Selected Topics in Signal Processing!
-
-== About me
-I am currently an NSERC Postdoctoral Research Fellow with the Department of Electrical and Computer Engineering at the University of British Columbia (UBC), hosted by [https://people.ece.ubc.ca/~vincentw/Homepage/Home.html Prof. Vincent Wong]. I received my Ph.D. in Electronic and Computer Engineering from the Hong Kong University of Science and Technology (HKUST) in 2025, under the supervision of [https://ece.hkust.edu.hk/eekhaled Prof. Khaled B. Letaief]. From September 2024 to July 2025, I was a Visiting Researcher at the Research Laboratory of Electronics, Massachusetts Institute of Technology (MIT), where I worked with [https://lizhongzheng.github.io Prof. Lizhong Zheng]. Prior to that, I received my B.Eng. degree in Electronic Science and Engineering from Nanjing University in 2021.  \n
-
-My research interests include *signal processing and machine learning for wireless systems*, with a focus on next-generation MIMO technologies, integrated sensing and communication, analog RF computing, and edge AI. I was a recipient of the China National Scholarship in 2018, the Hong Kong Ph.D. Fellowship Scheme (HKPFS) in 2021, and the NSERC Canada Postdoctoral Research Award (CPRA) in 2026.
 
 # == Research Interests 
 # - Statistical Machine Learning, Deep Learning, Point Process, Optimization, Fairness
